@@ -51,7 +51,5 @@ Duplicate voting is automatically blocked.
 All voting timestamps are saved in Votes.csv.
 
 
-✨ Credits
-Built by Akarsh Hegde
-Inspired by real-world voting systems & biometric authentication.
+✨ Inspired by real-world voting systems & biometric authentication.
 
