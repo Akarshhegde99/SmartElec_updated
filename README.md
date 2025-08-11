@@ -2,6 +2,8 @@
 
 A Python-based real-time face recognition voting system using OpenCV and KNN, designed for secure and automated digital elections. Voters are identified via webcam, authenticated using face data, and allowed to vote only once.
 
+[Watch the demo video](SmartElec.mp4)
+
 ## 🔍 Features
 
 - 🧠 Facial recognition with **OpenCV + KNN**
